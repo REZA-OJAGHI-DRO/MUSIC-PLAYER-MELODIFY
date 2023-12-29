@@ -1,7 +1,7 @@
 # MUSIC-PLAYER-MELODIFY
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-
+![Screenshot (41)](https://github.com/REZA-OJAGHI-DRO/MUSIC-PLAYER-MELODIFY/assets/145910720/6416619f-a520-4eb8-a798-90964ef89341)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/MUSIC-PLAYER-MELODIFY/)
  
