@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: font-1;
+  src: url("../font/JosefinSans-VariableFont_wght.ttf") format("opentype");
+}
+@font-face {
+  font-family: font-2;
+  src: url("../font/Gulzar-Regular.ttf") format("opentype");
+}
+@font-face {
+  font-family: font-3;
+  src: url("../font/IRANSans.ttf.ttf") format("opentype");
+}
+@font-face {
+  font-family: font-4;
+  src: url("../font/LuckiestGuy-Regular.ttf") format("opentype");
+}
+@font-face {
+  font-family: font-5;
+  src: url("../font/Orbitron-VariableFont_wght.ttf") format("opentype");
+}
+@font-face {
+  font-family: font-6;
+  src: url("../font/Orbitron-VariableFont_wght.ttf") format("opentype");
+}
+.i1{
+ background-image: linear-gradient(rgb(134, 246, 242),rgb(22, 1, 58));
+}
+.i2{
+ background-image: linear-gradient(rgb(246, 134, 134),rgb(58, 1, 8));
+
+}
+.i3{
+ background-image: linear-gradient(rgb(246, 184, 134),rgb(58, 32, 1));
+
+}
+.i4{
+ background-image: linear-gradient(rgb(246, 196, 134),rgb(58, 44, 1));
+
+}
+.i5{
+ background-image: linear-gradient(rgb(246, 209, 134),rgb(58, 57, 1));
+
+}
+.i6{
+ background-image: linear-gradient(rgb(246, 134, 134),rgb(58, 1, 1));
+
+}
+.i7{
+ background-image: linear-gradient(rgb(246, 199, 134),rgb(58, 28, 1));
+
+}
+.i8{
+ background-image: linear-gradient(rgb(134, 205, 246),rgb(1, 42, 58));
+
+}
+.i9{
+ background-image: linear-gradient(rgb(134, 145, 246),rgb(1, 9, 58));
+
+}
+.i10{
+ background-image: linear-gradient(rgb(246, 164, 134),rgb(58, 20, 1));
+
+}
+.i11{
+ background-image: linear-gradient(rgb(134, 205, 246),rgb(1, 25, 58));
+
+}
+.i12{
+ background-image: linear-gradient(rgb(134, 222, 246),rgb(1, 51, 58));
+
+}
+.i13{
+ background-image: linear-gradient(rgb(199, 134, 246),rgb(38, 1, 58));
+
+}
+.i14{
+ background-image: linear-gradient(rgb(134, 246, 138),rgb(1, 58, 15));
+
+}
+.i15{
+ background-image: linear-gradient(rgb(246, 134, 134),rgb(58, 1, 1));
+
+}
+.i16{
+ background-image: linear-gradient(rgb(246, 214, 134),rgb(58, 48, 1));
+
+}
+.i17{
+ background-image: linear-gradient(rgb(186, 246, 134),rgb(26, 58, 1));
+
+}
+.i18{
+ background-image: linear-gradient(rgb(246, 194, 134),rgb(58, 33, 1));
+
+}
+.i19{
+ background-image: linear-gradient(rgb(134, 171, 246),rgb(1, 33, 58));
+
+}
+.i20{
+ background-image: linear-gradient(rgb(246, 205, 134),rgb(58, 38, 1));
+
+}
+
+
+
+swiper-slide {
+  width: 200px;
+  height: 100%;
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  transition: .5s;
+}
+
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
